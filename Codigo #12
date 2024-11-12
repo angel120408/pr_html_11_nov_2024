@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #12-->
+<!--En esta practica veremos como la etiqueta HTML <cite>define el título de una obra creativa (por ejemplo, un libro, un poema, una canción, una película, una pintura, una escultura, etc.).-->
+
+
+<!--Inicia el proceso de como <cite> define el título de una obra creativa-->
+<p>El elemento CITE HTML define el título de una obra.</p>
+<p>Los navegadores suelen mostrar los elementos de cita en cursiva.</p>
+
+<img src="img_the_scream.jpg" width="220" height="277" alt="The Scream">
+<p><cite>El grito,</cite> de Edvard Munch. Pintado en 1893.</p>
+
+</body>
+</html>
