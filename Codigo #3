@@ -1,0 +1,11 @@
+<!--Practica #3-->
+
+<!DOCTYPE html>
+<html>
+<body>
+<!--En esta practica se agrupan colores a aspectos especificos-->
+<h1 style="background-color:powderblue;">Este es el ancabezado principal</h1>
+<p style="background-color:tomato;">En esta practica nos muestran el como se colocan colores diferentes a cada uno de los textos</p>
+
+</body>
+</html>
