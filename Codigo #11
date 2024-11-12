@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #11-->
+<!--En esta practica veremos como la <address>etiqueta HTML define la información de contacto del autor/propietario de un documento o artículo-->
+
+
+<!--Inicia el proceso con <address>-->
+<p>El elemento de dirección HTML define la información de contacto (autor/propietario) de un documento o artículo.</p>
+
+<address>
+Escrito por -John Doe-.<br>
+Visítanos en:<br>
+Example.com<br>
+Box 564, Disneylandia<br>
+Estados Unidos
+</address>
+
+</body>
+</html>
