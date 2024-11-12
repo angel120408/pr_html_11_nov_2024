@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #10-->
+<!--En esta practica veremos como la etiqueta HTML <abbr>define una abreviatura o un acrónimo, como "HTML", "CSS", "Sr.", "Dr.", "ASAP", "ATM".-->
+
+
+<!--Nos muestra como "subraya" la palabra que esta en (><)-->
+<p>El <abbr title="Organización Mundial de la Salud">OMS</abbr> fue fundada en 1948.</p>
+
+<p>El marcado de abreviaturas puede proporcionar información útil a los navegadores, los sistemas de traducción y los motores de búsqueda.</p>
+
+</body>
+</html>
