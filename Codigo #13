@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #13-->
+<!--En esta practica veremos como la <bdo>etiqueta HTML se utiliza para anular la dirección del texto actual.-->
+
+
+<!--Inicia el proceso de como <bdo> etiqueta en HTML-->
+<p>Si su navegador admite la anulación bidireccional (bdo), la siguiente línea se escribirá de derecha a izquierda (rtl):</p>
+
+<bdo dir="rtl">Esta línea se escribirá de derecha a izquierda</bdo>
+
+</body>
+</html>
