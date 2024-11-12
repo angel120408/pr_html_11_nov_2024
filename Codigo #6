@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!--Practica #6-->
+<!--En esta practica veremos como CSS define la alineación horizontal del texto-->
+
+<!--Cambios en la posicion texto-->
+
+<h1 style="text-align:center;">Se centra el encabezado</h1>
+<p style="text-align:center;">Se centra el parrafo</p>
+
+</body>
+</html>
