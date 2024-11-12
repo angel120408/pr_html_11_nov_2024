@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!--Practica #7-->
+<!--En esta practica veremos como los elementos de formato fueron diseñados para mostrar tipos especiales de texto-->
+
+<!--Cambios en los elementos del texto-->
+
+<p>El texto esta normal.</p>
+
+<p><b>El texto esta en negritas.</b></p>
+
+<strong>Este texto es importante!</strong>
+
+<i>El texto está en cursiva</i>
+
+<em>Se hace hincapié en este texto</em>
+
+<small>Este es un texto más pequeño.</small>
+
+<p>No te olvides de comprar<mark>Leche</mark> Hoy.</p>
+
+<p>Mi color favorito es<del>Azul</del>Rojo.</p>
+
+<p>Mi comida favorita es<del>Posole</del> <ins>Tacos</ins>.</p>
+
+<p>Este es <sub>el subíndice</sub> del texto.</p>
+
+<p>Este es <sup>En superíndice</sup> del texto</p>
+
+<!--Fin de los cambios en los elementos-->
+</body>
+</html>
