@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!--Practica #5-->
+<!--En esta practica veremos como CSS define el tamaño del texto-->
+
+<!--Cambios en el tamaño del texto-->
+
+<h1 style="font-size:300%;">Angel Manuel Ramirez Torres</h1>
+<p style="font-size:160%;">Angel Manuel Ramirez Torres</p>
+
+</body>
+</html>
