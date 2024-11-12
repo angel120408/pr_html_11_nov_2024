@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<!--Practica #9-->
+<!--En esta practica veremos como la etiqueta HTML <q> define una cita corta.-->
+
+
+<p>Los navegadores suelen insertar comillas alrededor del elemento "q".</p>
+
+<p>El objetivo de WWF es: <q>Construir un futuro en el que las personas vivan en armonía con la naturaleza.</q></p>
+
+</body>
+</html>
