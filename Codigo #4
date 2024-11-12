@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!--Practica #4>
+<!--En esta practica veremos como La colorpropiedad CSS define el color del texto-->
+
+<!--Nos muestra como se aplica la colorpropiedad-->
+<h1 style="color:blue;">Este es el tituclo, y esta de color azul</h1>
+<p style="color:red;">Este es el parrafo, y es de color rojo.</p>
+
+</body>
+</html>
